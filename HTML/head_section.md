@@ -1,0 +1,1 @@
+-   `Head section`   :- The `Head section` element is a container for `metadata (Data About Data)`. This
