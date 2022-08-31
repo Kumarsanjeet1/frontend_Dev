@@ -5,18 +5,18 @@
 #  syllabus
 
 ### HTML
--  [ ]   `Introduction`
--  [ ]   `Head section` 
--  [ ]   `Text`
--  [ ]   `Entities`
--  [ ]   `Hyperlink`
--  [ ]   `Image` 
--  [ ]   `Video and audio`
--  [ ]   `Lists`
--  [ ]   `Tables`
--  [ ]   `Containers` 
--  [ ]   `Sementics element`
--  [ ]   `Structing a webpage`
+-  [ ]   [Introduction](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/introduction.md)
+-  [ ]   [Head section](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/head_section.md) 
+-  [ ]   [Text](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/text.md)
+-  [ ]   [Entities](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/entities.md)
+-  [ ]   [Hyperlink](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/hyperlink.md)
+-  [ ]   [Image](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/image.md)
+-  [ ]   [Video and audio](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/video_audio.md)
+-  [ ]   [Lists](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/lists.md)
+-  [ ]   [Tables](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/tables.md)
+-  [ ]   [Containers](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/containers.md)
+-  [ ]   [Sementics element](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/sementics.md)
+-  [ ]   [Structing a webpage](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/structing_a_webpage.md)
 -  [ ]   `Summary`
 ### CSS
 -  [ ]   `Introduction` 
