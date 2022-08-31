@@ -1,1 +1,1 @@
--   `Head section`   :- The `Head section` element is a container for `metadata (Data About Data)`. This
+-   `Head section`   :- The `Head section` element is a container for `metadata (Data About Data)`. This section is stand between html and body tag.
