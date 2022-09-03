@@ -5,7 +5,7 @@
 #  syllabus
 
 ### HTML
--  [ ]   [Introduction](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/introduction.md)
+-  [x]   [Introduction](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/introduction.md)
 -  [ ]   [Head section](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/head_section.md) 
 -  [ ]   [Text](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/text.md)
 -  [ ]   [Entities](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/entities.md)
