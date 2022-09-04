@@ -11,8 +11,12 @@ for example - link the CSS file in the html document.
 <link rel="stylesheet" href="styles.css" />
 </head>
 -->
+
+
 <hr>
-*  Embedded Stylesheets - It allows me to define style for html elements. (Works ? - It will define in the head section of the html document).
+
+
+*   Embedded Stylesheets - It allows me to define style for html elements. (Works ? - It will define in the head section of the html document).
 for example-
 
 <!--<head>
@@ -23,6 +27,8 @@ for example-
 </head>--> 
 
 <hr>
+
+
 *  Inline Stylesheets - Inline stylesheets used to style for a particular html element. (Works ? - It wiil define in the html element section).
 
 for example-
