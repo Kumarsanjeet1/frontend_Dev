@@ -4,6 +4,8 @@
 *  External Stylesheets
 *  Inline Stylesheets
 
+<hr>
+
 * External Stylesheets - It allows me to define Styles for a particular HTML document. (Works ? - Where we create a CSS document file and creating some attributes for whole HTML element and link it into the head section of html).
 for example - link the CSS file in the html document.
 <!--
@@ -33,8 +35,8 @@ for example-
 
 for example-
 
-<!--
+<h6>
 <body>
 <p style= "color:blue;"> This is Inline Stylesheets </p>
 </body>
--->
+</h6>
