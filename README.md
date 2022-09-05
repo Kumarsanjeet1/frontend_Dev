@@ -21,7 +21,7 @@
 ### CSS
 -  [X]   [Introduction](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/introduction.md) 
 -  [X]   [providing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/providing_css.md)
--  [ ]   `Normalizing Css`
+-  [ ]   [Normalizing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/normalizing.md)
 -  [ ]   `Basic Seletors`
 -  [ ]   `Relational Selectors` 
 -  [ ]   `Pseudo-Class selectors`
