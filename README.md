@@ -19,8 +19,8 @@
 -  [ ]   [Structing a webpage](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/structing_a_webpage.md)
 -  [ ]   `Summary`
 ### CSS
--  [ ]   `Introduction` 
--  [ ]   `providing Css`
+-  [X]   [Introduction](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/introduction.md) 
+-  [X]   [providing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/providing_css.md)
 -  [ ]   `Normalizing Css`
 -  [ ]   `Basic Seletors`
 -  [ ]   `Relational Selectors` 

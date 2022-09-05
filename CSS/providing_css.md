@@ -7,12 +7,14 @@
 <hr>
 
 * External Stylesheets - It allows me to define Styles for a particular HTML document. (Works ? - Where we create a CSS document file and creating some attributes for whole HTML element and link it into the head section of html).
+
+
 for example - link the CSS file in the html document.
-<!--
-<head>
-<link rel="stylesheet" href="styles.css" />
+
+<p> &lt head &gt </p>
+<p> &lt link rel="stylesheet" href="styles.css" /&gt </p>
 </head>
--->
+
 
 
 <hr>
@@ -21,12 +23,13 @@ for example - link the CSS file in the html document.
 *   Embedded Stylesheets - It allows me to define style for html elements. (Works ? - It will define in the head section of the html document).
 for example-
 
-<!--<head>
- <style>
+<p>
+ &lt head &gt
+ &lt style &gt 
  p{
  color:orange;}
- </style>
-</head>--> 
+ &lt /style &gt
+&lt /head &gt 
 
 <hr>
 
@@ -35,8 +38,7 @@ for example-
 
 for example-
 
-<h6>
-<body>
-<p style= "color:blue;"> This is Inline Stylesheets </p>
-</body>
-</h6>
+
+<p>&ltbody&gt</p> <p> &lt p style= "color:blue;" &gt This is Inline Stylesheets &lt /p &gt </p>
+&lt/body&gt
+
