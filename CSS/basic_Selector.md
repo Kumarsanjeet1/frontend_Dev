@@ -47,9 +47,9 @@
  <hr>
  
 *   <h4> ID Selector - </h4> 
-*   Through Id element we will select the unique element, which is define as Id. 
+*   Through Id element we will select element through `unique id`, which is define in Id. 
 *   The ID should be unique for particular element.
-*   To select ID's element in CSS through # (pound sign)
+*   To select ID's element in CSS through `# (pound sign)`
 <br> For example- 
 <br> `#(Id's_name)` <br> `{` <br> `color:blue;`<br>`}`
 
@@ -58,3 +58,11 @@
 
 
 <hr>
+
+*  <h4> Class Selector -</h4>
+*  With same class can contain multiple elements.
+*  To select class elements in CSS through `. (fullstop)`
+<br> For example- 
+<br> `.(class_name)` <br> `{` <br> `color:green;`<br>`}`
+
+
