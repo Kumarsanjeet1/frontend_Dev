@@ -1,5 +1,5 @@
 # Differnt ways to select element for styling purposes!
-<h3> Selector </h3>
+<h3> Basic Selector </h3>
 
 *   Type
 
@@ -11,7 +11,7 @@
 
 <hr>
 
-*  Type Selector - The CSS Type Selector matches elements by node names. ( it means, type selector select all the element by its types).
+*  <h4> Type Selector - </h4> The CSS Type Selector matches elements by node names. ( it means, type selector select all the element by its types).
 
     <p>for example -  <br> element can be paragraph type <br> &lt;p&gt; &rarr;<br>
                                                                    p{ <br>
@@ -46,4 +46,15 @@
     
  <hr>
  
-*  ID Selector - 
+*   <h4> ID Selector - </h4> 
+*   Through Id element we will select the unique element, which is define as Id. 
+*   The ID should be unique for particular element.
+*   To select ID's element in CSS through # (pound sign)
+<br> For example- 
+<br> `#(Id's_name)` <br> `{` <br> `color:blue;`<br>`}`
+
+
+
+
+
+<hr>
