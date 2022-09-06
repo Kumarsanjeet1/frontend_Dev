@@ -66,3 +66,21 @@
 <br> `.(class_name)` <br> `{` <br> `color:green;`<br>`}`
 
 
+
+<hr>
+
+*  <h4> Attribute Selector -</h4>
+*  Through Attribute selector, we select the element with specified attribute.
+*  Value should be anything from Attribute.
+*  To select the attribute element in css through `[ attribute value ]`.
+*  Attribute value means- any value, the element and elements have contained.
+
+  For Example - <br>
+   a[href="www.google.com"] <br> { <br> color:orange;<br>}<br> - `the value should be exact, then the attribute will select.`<br>
+   <br>
+   a[href*="google"] <br> { <br> color:orange;<br>}<br> - `value matched a bit, then the attribute will select.`<br>
+   <br>
+   a[href^="www"] <br> { <br> color:orange;<br>}<br> - `the value should be start from value,then the attribute will select.` <br>
+   <br>
+   a[href="com"] <br> { <br> color:orange;<br>}<br> - `the value should be end with value, then the attribute will select.`<br>
+   <br>
