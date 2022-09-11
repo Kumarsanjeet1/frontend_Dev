@@ -3,8 +3,9 @@
 1. Heading tag 
 2. paragraph tag
 <hr>
-1. Heading
--There are 6 types of heading tag. Those are `h1,h2,h3,h4,h5,h6`
+1. Heading tag
+
+- There are 6 types of heading tag. Those are `h1,h2,h3,h4,h5,h6`
 
 - Use the `Heading` tag always in the way of hierarchy.
 
@@ -24,3 +25,34 @@
 
        * Don't use Heading tag, On the basis of thier size.
        * If you will use then the Search Engine of your website wiil not be Optimized.
+
+
+
+<hr>
+<hr>
+
+2.Paragraph tag
+
+- Paragraph tag used for write paragraph content of the website.
+
+-In Paragraph there two element are important-
+  
+   * `<em>` em tag (emphasize) 
+   
+   * `<strong>` strong tag 
+
+* em tag used for to emphasize or italic the paragraph element font.
+     
+        For Example- 
+        * we can use italic tag as well in the html,
+          well if we want to do the changes in the css section,
+          then we will not able to do the changes.
+          that's depricated.
+        * that's why we use this `em` tag, 
+        * And we can do the changes in the Css section.
+
+* strong tag used to bold the paragraph element
+
+      same as emphsize tag!
+    
+   
