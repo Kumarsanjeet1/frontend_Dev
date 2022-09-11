@@ -53,6 +53,6 @@
 
 * strong tag used to bold the paragraph element
 
-      same as emphsize tag!
+      same as emphasize tag!
     
    
