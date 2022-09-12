@@ -12,7 +12,7 @@
 -  [ ]   [Hyperlink](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/hyperlink.md)
 -  [ ]   [Image](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/image.md)
 -  [ ]   [Video and audio](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/video_audio.md)
--  [ ]   [Lists](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/lists.md)
+-  [x]   [Lists](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/lists.md)
 -  [ ]   [Tables](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/tables.md)
 -  [ ]   [Containers](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/containers.md)
 -  [ ]   [Sementics element](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/sementics.md)
