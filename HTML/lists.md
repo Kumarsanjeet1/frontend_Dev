@@ -7,7 +7,8 @@
 
 
 
-# Order List `<ol> </ol>`
+# Order List 
+`<ol> </ol>`
  
  - Order List used to list the content in the form of sequence number(1, a , A, i).
  
@@ -42,7 +43,8 @@
      <hr>
      
      
-# UnOrder List `<ol> </ol>`
+# UnOrder List 
+`<ul> </ul>`
  
  - UnOrder List used to list the content in the form of bullet point.
  
