@@ -9,7 +9,7 @@
 -  [x]   [Head section](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/head_section.md) 
 -  [x]   [Text](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/text.md)
 -  [x]   [Entities](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/entities.md)
--  [ ]   [Hyperlink](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/hyperlink.md)
+-  [x]   [Hyperlink](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/hyperlink.md)
 -  [ ]   [Image](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/image.md)
 -  [ ]   [Video and audio](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/video_audio.md)
 -  [x]   [Lists](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/lists.md)
