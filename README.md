@@ -35,5 +35,37 @@
 -  [ ]   `Summary`
 -  [ ]   `Exercise`
 -  [ ]   `Finish`
+### JavaScript
+
+-  [ ]    [Introduction]()
+-  [ ]    [Data Types]()
+-  [ ]    [Booleans, Operators,Date]()
+-  [ ]    [Conditionals]()
+-  [ ]    [Arrarys]()
+-  [ ]    [Loops]()
+-  [ ]    [Functions]()
+-  [ ]    [Objects]()
+-  [ ]    [Higher Order Functions]()
+-  [ ]    [Sets and Maps]()
+-  [ ]    [Destructuring and Spreading]()
+-  [ ]    [Regular Expressions]()
+-  [ ]    [Console Object Methods]()
+-  [ ]    [Error Handling]()
+-  [ ]    [Classes]()
+-  [ ]    [JSON]()
+-  [ ]    [Web Storages]()
+-  [ ]    [promises]()
+-  [ ]    [Closer]()
+-  [ ]    [Writing Clean Code]()
+-  [ ]    [DOM]()
+-  [ ]    [Manipulating DOM Object]()
+-  [ ]    [Event Listeners]()
+-  [ ]    [Mini Project: Solar System]()
+-  [ ]    [Mini Project: World Countries Data Visualization 2]()
+-  [ ]    [Mini Project: Portfolio]()
+-  [ ]    [Mini Project: Leaderboard]()
+-  [ ]    [Mini Project: Animating Characters ]()
+-  [ ]    [Final Projects]()
+
 
 
