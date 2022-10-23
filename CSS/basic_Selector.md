@@ -1,4 +1,4 @@
-# Differnt ways to select element for styling purposes!
+# Different way to select the element for styling purposes!
 <h3> Basic Selector </h3>
 
 *   Type
