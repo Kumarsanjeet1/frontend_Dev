@@ -11,7 +11,7 @@
 -  [x]   [Entities](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/entities.md)
 -  [x]   [Hyperlink](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/hyperlink.md)
 -  [x]   [Image](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/image.md)
--  [ ]   [Video and audio](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/video_audio.md)
+-  [x]   [Video and audio](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/video_audio.md)
 -  [x]   [Lists](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/lists.md)
 -  [ ]   [Tables](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/tables.md)
 -  [ ]   [Containers](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/containers.md)
