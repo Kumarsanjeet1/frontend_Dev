@@ -4,7 +4,7 @@
 
 #  syllabus
 
-### HTML
+### HTML Part-1️⃣
 -  [x]   [Introduction](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/introduction.md)
 -  [x]   [Head section](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/head_section.md) 
 -  [x]   [Text](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/text.md)
@@ -18,7 +18,7 @@
 -  [ ]   [Sementics element](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/sementics.md)
 -  [ ]   [Structing a webpage](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/HTML/structing_a_webpage.md)
 -  [ ]   `Summary`
-### CSS
+### CSS Part-1️⃣
 -  [X]   [Introduction](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/introduction.md) 
 -  [X]   [providing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/providing_css.md)
 -  [x]   [Normalizing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/normalizing.md)
