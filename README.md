@@ -23,7 +23,7 @@
 -  [X]   [providing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/providing_css.md)
 -  [x]   [Normalizing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/normalizing.md)
 -  [x]   [Basic Seletors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/basic_Selector.md)
--  [ ]   [Relational Selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/relational_selectors.md) 
+-  [x]   [Relational/combinator Selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/relational_or_combinator_selectors.md) 
 -  [ ]   `Pseudo-Class selectors`
 -  [ ]   `Pseudo Element selectors`
 -  [ ]   `Selector specificty`
