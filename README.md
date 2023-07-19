@@ -24,7 +24,7 @@
 -  [x]   [Normalizing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/normalizing.md)
 -  [x]   [Basic Seletors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/basic_Selector.md)
 -  [x]   [Relational/combinator Selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/relational_or_combinator_selectors.md) 
--  [ ]   `Pseudo-Class selectors`
+-  [ ]   [Pseudo-Class selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/pseudo_class_selector.md)
 -  [ ]   `Pseudo Element selectors`
 -  [ ]   `Selector specificty`
 -  [ ]   `Inheritance` 
