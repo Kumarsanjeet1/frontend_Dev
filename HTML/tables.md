@@ -10,7 +10,7 @@
       ....
       </table>
 
-🔹tr
+🔵tr
 
 ➡️ tr (table row) (creates table rows)
 
@@ -19,10 +19,10 @@
                <tr>
                ....
                ....
-               <tr>
+               </tr>
           </table>
 
-🔹th 
+🔵th 
 
 ➡️ th (table head) (creates table rows and you can add table heading with this element!)
 
@@ -34,8 +34,15 @@
                  <th> table heading 3</th>
                </tr>
           </table>
-
-🔹td 
+ <h2>:Output</h2> 
+     <table>
+               <tr>
+                 <th> table heading 1 </th>
+                 <th> table heading 2</th>
+                 <th> table heading 3</th>
+               </tr>
+          </table>
+🔵 td 
 
 ➡️ td (table data) (creates table rows and you can add table data with this element!)
 
@@ -46,7 +53,20 @@
                  <td> Add table data in row formate</td>
                  <td> Add table data in row formate</td>
                  <td> Add table data in row formate</td>
-               <tr>
+               </tr>
           </table>
+<h2>Output:</h2>
+<table> 
+               <tr>
+                 <th> table heading 1 </th>
+                 <th> table heading 2</th>
+                 <th> table heading 3</th>
+               </tr>
+               <tr>
+                 <td> Add table data in row formate</td>
+                 <td> Add table data in row formate</td>
+                 <td> Add table data in row formate</td>
+               </tr>
+</table>
 
 
