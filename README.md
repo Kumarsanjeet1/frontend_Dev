@@ -24,17 +24,31 @@
 -  [x]   [Normalizing Css](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/normalizing.md)
 -  [x]   [Basic Seletors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/basic_Selector.md)
 -  [x]   [Relational/combinator Selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/relational_or_combinator_selectors.md) 
--  [ ]   [Pseudo-Class selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/pseudo_class_selector.md)
--  [ ]   `Pseudo Element selectors`
--  [ ]   `Selector specificty`
--  [ ]   `Inheritance` 
--  [ ]   `Colors`
--  [ ]   `Gradients`
--  [ ]   `Boders`
--  [ ]   `Shadow` 
--  [ ]   `Summary`
--  [ ]   `Exercise`
--  [ ]   `Finish`
+-  [x]   [Pseudo-Class selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/pseudo_class_selector.md)
+-  [x]   [Pseudo Element selectors](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/pseudo_element_selector.md)
+-  [ ]   [Selector specificty](https://github.com/Kumarsanjeet1/frontend_Dev/blob/main/CSS/selector-specificity.md)
+-  [ ]   [Inheritance]()
+-  [ ]   [Colors]()
+-  [ ]   [Gradients]()
+-  [ ]   [Boders]()
+-  [ ]   [Shadow]()
+-  [ ]   [Summary]()
+-  [ ]   [Exercise]()
+
+### CSS Part-2️⃣
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
 ### JavaScript
 
 -  [ ]    [Introduction]()
